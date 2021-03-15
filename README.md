@@ -30,7 +30,9 @@ The goals of this challenge are for you to:
     <br/>AFTER CLEANUP: % Overall Passing = 65, placing eighth!
     <br/>OBSERVATION: Overall ranking order change due to THOMAS HS, which slipped from 2ND to 13TH position, with the other intervening schools moving up.
     <br/>Recalculate the high- and low-performing schools.
-
+![Screen Shot 2021-03-15 at 12 31 58 AM](https://user-images.githubusercontent.com/77771292/111103923-e1973780-8525-11eb-90bf-b92fdc1d93e7.png)
+![Screen Shot 2021-03-15 at 12 31 58 AM](https://user-images.githubusercontent.com/77771292/111104327-cc6ed880-8526-11eb-90e5-b84771049527.png)
+![Screen Shot 2021-03-15 at 12 39 12 AM](https://user-images.githubusercontent.com/77771292/111104358-dee91200-8526-11eb-84a3-6dcd1ba87a26.png)
 <br/>How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
     <br/>OBSERVATION: Relative ranking for THOMAS HS changed from 2ND to 8TH, as it's % OVERALL PASSING number decreased from 91% to 65%.
     <br/>Recalculate the scores by grade, scores by school spending, scores by school size, and scores by school type.
@@ -44,18 +46,22 @@ The goals of this challenge are for you to:
     <br/>BEFORE cleanup: Thomas High School       1635
     <br/>AFTER cleanup: Thomas High School       1174
     <br/>"%age passing" score is reduced as Total number of students (denominator) remains unchanged, but total passing value (numerator) is reduced by the number of removed 9th grade scores.
+![Screen Shot 2021-03-15 at 12 40 53 AM](https://user-images.githubusercontent.com/77771292/111104443-1bb50900-8527-11eb-8eaf-909fd9db5e30.png)
+<br/>![Screen Shot 2021-03-15 at 12 42 57 AM](https://user-images.githubusercontent.com/77771292/111104589-69317600-8527-11eb-97b2-76f633021178.png)
+
 <br/>Scores by School Spending
     <br/>Thomas HS is in the spending bucket "$630-644"
     <br/>Removing 9th grade scores reduces the "% Passing Math", "% Passing Reading" and "% Overall Passing" scores for spending bucket "$630-644" as follows
     <br/>BEFORE: 73, 84, 63
     <br/>AFTER: 67, 77, 56
-
+![Screen Shot 2021-03-15 at 12 42 10 AM](https://user-images.githubusercontent.com/77771292/111104518-4901b700-8527-11eb-882d-6ed667f50787.png)
 <br/>scores by School Size
     <br/>Thomas HS is in the "Medium (1000-2000)" size bucket
     <br/>Removing 9th grade scores reduces the "% Passing Math", "% Passing Reading" and "% Overall Passing" scores for size
     <br/>bucket "Medium (1000-2000)" as follows
     <br/>BEFORE:94, 97, 91
     <br/>AFTER: 88, 91, 85
+![Screen Shot 2021-03-15 at 12 41 48 AM](https://user-images.githubusercontent.com/77771292/111104490-3b4c3180-8527-11eb-9f89-6253fbaa47e1.png)
 
 <br/>Scores by School Type
     <br/>Thomas HS is in the "CHARTER" type bucket
@@ -63,4 +69,5 @@ The goals of this challenge are for you to:
     <br/>"CHARTER" as follows
     <br/>BEFORE:94, 97, 90
     <br/>AFTER: 90	93	87
+![Screen Shot 2021-03-15 at 12 43 36 AM](https://user-images.githubusercontent.com/77771292/111104629-7d757300-8527-11eb-8685-5825c9423083.png)
 
