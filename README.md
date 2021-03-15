@@ -30,8 +30,7 @@ After assessing the situation with the school superintendent and Maria, you deci
     <br/>Recalculate the high- and low-performing schools.
 ![Screen Shot 2021-03-15 at 12 31 58 AM](https://user-images.githubusercontent.com/77771292/111103923-e1973780-8525-11eb-90bf-b92fdc1d93e7.png)
 ![Screen Shot 2021-03-15 at 12 31 58 AM](https://user-images.githubusercontent.com/77771292/111104327-cc6ed880-8526-11eb-90e5-b84771049527.png)
-![Screen Shot 2021-03-15 at 12 39 12 AM](https://user-images.githubusercontent.com/77771292/111104358-dee91200-8526-11eb-84a3-6dcd1ba87a26.png)
-<br/>How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
+<br/>**How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?**
     <br/>OBSERVATION: Relative ranking for THOMAS HS changed from 2ND to 8TH, as it's % OVERALL PASSING number decreased from 91% to 65%.
     <br/>Recalculate the scores by grade, scores by school spending, scores by school size, and scores by school type.
 <br/>**How does replacing the ninth-grade scores affect the following?**
