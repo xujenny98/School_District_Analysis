@@ -42,7 +42,6 @@ After assessing the situation with the school superintendent and Maria, you deci
     <br/>AFTER cleanup: Thomas High School       1174
     <br/>"%age passing" score is reduced as Total number of students (denominator) remains unchanged, but total passing value (numerator) is reduced by the number of removed 9th grade scores.
 ![Screen Shot 2021-03-15 at 12 40 53 AM](https://user-images.githubusercontent.com/77771292/111104443-1bb50900-8527-11eb-8eaf-909fd9db5e30.png)
-<br/>![Screen Shot 2021-03-15 at 12 42 57 AM](https://user-images.githubusercontent.com/77771292/111104589-69317600-8527-11eb-97b2-76f633021178.png)
 <br/>**Scores by School Spending**
     <br/>Thomas HS is in the spending bucket "$630-644"
     <br/>Removing 9th grade scores reduces the "% Passing Math", "% Passing Reading" and "% Overall Passing" scores for spending bucket "$630-644" as follows
