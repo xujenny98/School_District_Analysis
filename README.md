@@ -22,6 +22,8 @@ The goals of this challenge are for you to:
     <br/>Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, % Overall Passing
     <br/>78.9, 81.9, 74, 85, 64
     <br/>OBSERVATION: Slight downward change in district averages
+    ![Districtsummary](https://user-images.githubusercontent.com/77771292/111103781-967d2480-8525-11eb-88f6-5c906ded943a.png)
+
 
 <br/>How is the school summary affected?
     <br/>BEFORE CLEANUP: Thomas High School's % Overall Passing = 91, placing second
