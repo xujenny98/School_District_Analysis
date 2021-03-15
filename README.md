@@ -15,10 +15,10 @@ After assessing the situation with the school superintendent and Maria, you deci
 
 # Results
 <br/>**How is the district summary affected?**
-Markup : * Bullet list <br/> BEFORE DATA CLEANUP
+     <br/>Markup : * BEFORE DATA CLEANUP
     *<br/>Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, % Overall Passing
     *<br/>79.0, 81.9, 75, 86, 65
-    <br/>AFTER DATA CLEANUP
+    *<br/>AFTER DATA CLEANUP
     <br/>Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, % Overall Passing
     <br/>78.9, 81.9, 74, 85, 64
     <br/>OBSERVATION: Slight downward change in district averages
