@@ -54,7 +54,6 @@ After assessing the situation with the school superintendent and Maria, you deci
     <br/> *bucket "Medium (1000-2000)" as follows
     <br/> *BEFORE:94, 97, 91
     <br/> *AFTER: 88, 91, 85
-![Screen Shot 2021-03-15 at 12 41 48 AM](https://user-images.githubusercontent.com/77771292/111104490-3b4c3180-8527-11eb-9f89-6253fbaa47e1.png)
 <br/>**Scores by School Type**
     <br/> *Thomas HS is in the "CHARTER" type bucket
     <br/> *Removing 9th grade scores reduces the "% Passing Math", "% Passing Reading" and "% Overall Passing" scores for type bucket 
